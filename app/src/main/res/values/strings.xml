@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Country Search</string>
+    <string name="search_country">Search Country</string>
+    <string name="clear">Clear</string>
+</resources>
